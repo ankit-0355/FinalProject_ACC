@@ -41,18 +41,16 @@
 	<dependency>
 	    <groupId>ru.yandex.qatools.ashot</groupId>
 	    <artifactId>ashot</artifactId>
-	    <version>1.5.4</version>
-	</dependency>
+			<version>1.5.4</version>
+		</dependency>
 
-<!-- https://mvnrepository.com/artifact/com.assertthat/selenium-shutterbug -->
-<dependency>
-    <groupId>com.assertthat</groupId>
-    <artifactId>selenium-shutterbug</artifactId>
-    <version>1.6</version>
-</dependency>
+		<!--
+		https://mvnrepository.com/artifact/com.assertthat/selenium-shutterbug -->
+		<dependency>
+			<groupId>com.assertthat</groupId>
+			<artifactId>selenium-shutterbug</artifactId>
+			<version>1.6</version>
+		</dependency>
 
-
-
-	
   </dependencies>
 </project>

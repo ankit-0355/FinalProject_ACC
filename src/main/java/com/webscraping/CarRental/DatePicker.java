@@ -2,7 +2,6 @@ package com.webscraping.CarRental;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.time.Duration;
 import java.util.regex.Pattern;
 
 import org.openqa.selenium.By;

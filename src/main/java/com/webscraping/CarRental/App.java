@@ -1,6 +1,9 @@
 package com.webscraping.CarRental;
 
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.time.Duration;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
@@ -26,6 +29,15 @@ public class App {
 	static String[] dropdate;
 	static String droptime;
     
+	public static void testuserinput() throws IOException {
+		System.out.println("Enter line 1");
+		BufferedReader bbr=new BufferedReader(new InputStreamReader(System.in));
+		bbr.readLine();
+		System.out.println("Enter line 2");
+		bbr.readLine();
+		
+	}
+	
 //	Method to Enter user details in the Web Form
 	public static void websitepages() throws Exception{
 		
@@ -76,7 +88,23 @@ public class App {
 //		Searching cars with the filled Information
 		driver.findElement(By.xpath("//*[@id='new-resSubmit']")).click();
 		
-		Thread.sleep(Duration.ofSeconds(5));
+		Thread.sleep(Duration.ofSeconds(3));
+		
+		try {
+			driver.findElement(By.xpath("//*[@id='ok-btn']")).click();
+		} catch(Exception e) {
+			System.out.println("Clicked on pop-up");
+		}
+		
+		try {
+//			driver.findElement(By.xpath("//*[@class='loc-select-btn-second loc-link primary']")).click();
+			driver.findElement(By.xpath("//button[text()='Select for Reservation']")).click();
+			
+		} catch (Exception e) {
+			System.out.println("Selected Location");
+		}
+		
+		Thread.sleep(Duration.ofSeconds(7));
 		
 //		Calling method to capture screenshot of the web page
 		utility.captureScreenshot("CarList.png",driver);

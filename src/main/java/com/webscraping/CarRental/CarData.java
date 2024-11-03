@@ -17,12 +17,12 @@ public class CarData extends App {
 	
 //		Handling FIle creation of CSV file
 		FileWriter write = null;
-		File f = new File("Cardata.csv");
+		File f = new File("Cardata1.csv");
 		if(f.exists()) {
-			write = new FileWriter("Cardata.csv",true);
+			write = new FileWriter("Cardata1.csv",true);
 		} else {
 //			System.out.println(f.exists());
-			write = new FileWriter("Cardata.csv");
+			write = new FileWriter("Cardata1.csv");
 			String[] header= {"Car Name", "PassengerCapacity",
 					"Car Type","Transmission","Price","Location","pickupDate","Luggage","Range or Mileage"};
 			CSVWriter writecsv = new CSVWriter(write);
@@ -43,7 +43,7 @@ public class CarData extends App {
 			String luggage = vehicle.findElement(By.xpath(".//*[@class='gtm-vehFeature-suitcases']//*[@class='gtm-vehFeatureDesc']")).getText();
 			
 //			Writing the data fetched into the CSV
-			write.append(vetype.split(" ")[0]+" ").append(vetype.split(" ")[1]).append(",");
+			write.append(vetype.split("or similar")[0].split("\\)")[1]).append(",");
 			write.append(vepassengers).append(",");
 			write.append(vetitle).append(",");
 			write.append(vetransmission).append(",");
@@ -63,7 +63,7 @@ public class CarData extends App {
 					String vefuel = vehicle.findElement(By.xpath(".//*[@class='gtm-vehFeature-fuel']//*[@class='gtm-vehFeatureDesc']")).getText();
 					write.append(vefuel).append(",");
 				} catch (Exception fe) {
-					write.append("N/A");
+					write.append("NA");
 				}
 			}
 				write.append("\n");
