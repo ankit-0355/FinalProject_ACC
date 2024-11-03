@@ -3,7 +3,7 @@ package com.webscraping.CarRental;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
+import java.io.InputStreamReader; 
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
@@ -11,20 +11,27 @@ import org.junit.jupiter.api.Test;
 
 public class AppTest extends App{
 		
+	public static void main(String[] args) throws Exception {
+		testApp();
+		closebrowser();
+	}
+	
     @Test
-    public void testApp() throws Exception  {
+    public static void testApp() throws Exception  {
 //		Getting user inputs
+//    	Scanner sc =new Scanner(System.in);
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.print("Please enter Pickup Location: ");
+		System.out.println("Please enter Pickup Location: ");
 		pickuploc=br.readLine();
+//		pickuploc=sc.next() ;
 		
-		System.out.print("Please enter Pickup Date in DD-MM-YYYY format: ");
+		System.out.println("Please enter Pickup Date in DD-MM-YYYY format: ");
 		 pickupdate= DP.datechck(br);
 		
-		System.out.print("Please Enter Pickup time in HH:MM format: ");
+		System.out.println("Please Enter Pickup time in HH:MM format: ");
 		pickuptime = TP.timechck(br);
 		
-		System.out.print("Please enter Dropoff Date in DD-MM-YYYY format: ");
+		System.out.println("Please enter Dropoff Date in DD-MM-YYYY format: ");
 		dropdate= DP.datechck(br);
 		
 		System.out.print("Please Enter Drop time in HH:MM format: ");
@@ -34,13 +41,11 @@ public class AppTest extends App{
 		
 		websitepages();
 		CD.scrapdata();
-        	
-		String s = "Hello";
-    	assertEquals(s, "Hello");
+		
     	}
     
     @AfterAll
-    public void closebrowser() {
+    public static void closebrowser() {
     	driver.close();
     	driver.quit();
     }

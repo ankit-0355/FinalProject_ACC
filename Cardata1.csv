@@ -1,0 +1,61 @@
+Car Name,PassengerCapacity,Car Type,Transmission,Price,Location,pickupDate,Luggage,Range or Mileage
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,67.18 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,576 km range
+ Compact or Larger ,5,Economy,A,55.69 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,NA
+ Toyota Corolla ,5,Midsize,A,59.07 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.7 l/100km
+ Hyundai Sonata ,5,Fullsize,A,60.06 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,6.2 l/100km
+ Toyota RAV4 ,5,Midsize SUV,A,54.24 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,8.3 l/100km
+ Dodge Grand Caravan ,7,Minivan,A,57.14 CAD,Windsor - Windsor Walker Road HLE,18/11/24,5,9.1 l/100km
+ Ford Edge ,5,5 Passengers Standard SUV,A,57.14 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,9.1 l/100km
+ Dodge Ram 1500 ,5,Standard Pick up,A,55.69 CAD,Windsor - Windsor Walker Road HLE,18/11/24,9,11.1 l/100km
+ Chevrolet Spark ,4,Economy,A,55.69 CAD,Windsor - Windsor Walker Road HLE,18/11/24,2,6.7 l/100km
+ Kia Rio ,5,Compact,A,55.69 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.2 l/100km
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,63.07 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,488 km range
+ Volkswagen Jetta ,5,Standard,A,57.11 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.2 l/100km
+ Tesla Model Y ,5,Tesla Model Y,A,92.32 CAD,Windsor - Windsor Walker Road HLE,18/11/24,5,488 km range
+ Nissan Kicks ,5,Compact SUV,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,3,7.7 l/100km
+ Ford Transit 250 ,2,Commercial Van/Truck Medium Roof,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,11,14.3 l/100km
+ Chevrolet Malibu ,5,Large Sedan,A,70.49 CAD,New York City JFK Airport,04/11/24,4,12.5 l/100km
+ Nissan Rogue ,5,Small SUV,A,78.08 CAD,New York City JFK Airport,04/11/24,4,9.1 l/100km
+ Chevrolet Equinox ,5,Standard 5 Passenger SUV,A,111.10 CAD,New York City JFK Airport,04/11/24,4,11.1 l/100km
+ Nissan Pathfinder ,7,Medium 7 Passenger SUV,A,164.83 CAD,New York City JFK Airport,04/11/24,2,8.3 l/100km
+ Chrysler Pacifica ,7,Minivan,A,125.46 CAD,New York City JFK Airport,04/11/24,5,10.0 l/100km
+ GMC Yukon ,7,Large SUV,A,125.46 CAD,New York City JFK Airport,04/11/24,4,12.5 l/100km
+ Chevrolet Suburban ,7,Extra Capacity Large SUV,A,252.13 CAD,New York City JFK Airport,04/11/24,6,12.5 l/100km
+ Buick Encore ,5,Compact SUV,A,80.83 CAD,New York City JFK Airport,04/11/24,2,NA
+ Ford Edge ,5,Standard SUV AWD,A,949.93 CAD,New York City JFK Airport,04/11/24,4,NA
+ Ford Transit 12 psgr ,12,12 Passenger Van,A,366.25 CAD,New York City JFK Airport,04/11/24,2,14.3 l/100km
+ Compact or Larger ,4,Economy,A,61.02 CAD,New York City JFK Airport,04/11/24,1,NA
+ Chevrolet Spark ,4,Economy 2/4 Door,A,66.92 CAD,New York City JFK Airport,04/11/24,2,6.7 l/100km
+ Ford Focus ,5,Small Sedan,A,67.90 CAD,New York City JFK Airport,04/11/24,2,5.9 l/100km
+ Mazda 3 4-door ,5,Medium Sedan,A,67.93 CAD,New York City JFK Airport,04/11/24,3,7.1 l/100km
+ VW Jetta ,5,Standard 2/4 Door,A,70.49 CAD,New York City JFK Airport,04/11/24,3,8.3 l/100km
+ Volvo S60 Hybrid ,5,Medium Elite Sedan,A,543.78 CAD,New York City JFK Airport,04/11/24,4,8.3 l/100km
+ Compact or Larger ,5,Economy,A,54.52 CAD,Edmonton - Via Rail HLE,05/11/24,3,NA
+ Toyota Corolla ,5,Midsize,A,64.36 CAD,Edmonton - Via Rail HLE,05/11/24,3,6.7 l/100km
+ Hyundai Sonata ,5,Fullsize,A,69.18 CAD,Edmonton - Via Rail HLE,05/11/24,4,6.2 l/100km
+ Toyota RAV4 ,5,Midsize SUV,A,96.41 CAD,Edmonton - Via Rail HLE,05/11/24,4,8.3 l/100km
+ Ford Edge ,5,5 Passengers Standard SUV,A,101.28 CAD,Edmonton - Via Rail HLE,05/11/24,4,9.1 l/100km
+ Dodge Ram 1500 ,5,Standard Pick up,A,93.86 CAD,Edmonton - Via Rail HLE,05/11/24,9,11.1 l/100km
+ Chevrolet Spark ,4,Economy,A,62.12 CAD,Edmonton - Via Rail HLE,05/11/24,2,6.7 l/100km
+ Kia Rio ,5,Compact,A,62.12 CAD,Edmonton - Via Rail HLE,05/11/24,3,6.2 l/100km
+ Volkswagen Jetta ,5,Standard,A,65.78 CAD,Edmonton - Via Rail HLE,05/11/24,3,6.2 l/100km
+ Nissan Kicks ,5,Compact SUV,A,Call to Book,Edmonton - Via Rail HLE,05/11/24,3,7.7 l/100km
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,83.50 CAD,Toronto Pearson International Airport,06/11/24,4,576 km range
+ Toyota RAV4 ,5,Midsize SUV,A,64.64 CAD,Toronto Pearson International Airport,06/11/24,4,8.3 l/100km
+ Ford Edge ,5,5 Passengers Standard SUV,A,65.94 CAD,Toronto Pearson International Airport,06/11/24,4,9.1 l/100km
+ Dodge Grand Caravan ,7,Minivan,A,90.60 CAD,Toronto Pearson International Airport,06/11/24,5,9.1 l/100km
+ Hyundai Sonata ,5,Fullsize,A,54.24 CAD,Toronto Pearson International Airport,06/11/24,4,6.2 l/100km
+ Toyota Corolla ,5,Midsize,A,63.10 CAD,Toronto Pearson International Airport,06/11/24,3,6.7 l/100km
+ Kia Rio ,5,Compact,A,41.25 CAD,Toronto Pearson International Airport,06/11/24,3,6.2 l/100km
+ Volkswagen Jetta ,5,Standard,A,51.71 CAD,Toronto Pearson International Airport,06/11/24,3,6.2 l/100km
+ Compact or Larger ,5,Economy,A,46.06 CAD,Toronto Pearson International Airport,06/11/24,3,NA
+ Dodge Ram 1500 ,5,Standard Pick up,A,41.25 CAD,Toronto Pearson International Airport,06/11/24,9,11.1 l/100km
+ Chevrolet Spark ,4,Economy,A,41.25 CAD,Toronto Pearson International Airport,06/11/24,2,6.7 l/100km
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,78.26 CAD,Toronto Pearson International Airport,06/11/24,4,488 km range
+ Polestar 2 ,5,Midsize Elite,A,67.06 CAD,Toronto Pearson International Airport,06/11/24,4,NA
+ Volvo S60 ,5,Standard Elite,A,103.99 CAD,Toronto Pearson International Airport,06/11/24,4,8.3 l/100km
+ Nissan Kicks ,5,Compact SUV,A,61.58 CAD,Toronto Pearson International Airport,06/11/24,3,7.7 l/100km
+ Tesla Model Y ,5,Tesla Model Y,A,91.93 CAD,Toronto Pearson International Airport,06/11/24,5,488 km range
+ Nissan Murano ,5,Standard,A,141.45 CAD,Toronto Pearson International Airport,06/11/24,4,NA
+ Dodge Durango ,7,Large SUV,A,91.93 CAD,Toronto Pearson International Airport,06/11/24,5,10.0 l/100km
+ Polestar 1,4,Special,A,Call to Book,Toronto Pearson International Airport,06/11/24,2,NA
