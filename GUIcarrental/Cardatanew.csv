@@ -1,0 +1,78 @@
+Car Name,PassengerCapacity,Car Type,Transmission,Price,Location,pickupDate,Luggage,Range or Mileage,Website
+ Tesla Model Y ,5,Tesla Model Y,A,92.32 CAD,Windsor - Windsor Walker Road HLE,18/11/24,5,488 km range,https://www.hertz.com/rentacar
+ Compact or Larger ,5,Economy,A,33.90 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,NA,https://www.hertz.com/rentacar
+ Toyota Corolla ,5,Midsize,A,37.29 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.7 l/100km,https://www.hertz.com/rentacar
+ Hyundai Sonata ,5,Fullsize,A,45.20 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,6.2 l/100km,https://www.hertz.com/rentacar
+ Toyota RAV4 ,5,Midsize SUV,A,54.24 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,8.3 l/100km,https://www.hertz.com/rentacar
+ Dodge Grand Caravan ,7,Minivan,A,57.14 CAD,Windsor - Windsor Walker Road HLE,18/11/24,5,9.1 l/100km,https://www.hertz.com/rentacar
+ Ford Edge ,5,5 Passengers Standard SUV,A,55.37 CAD,Windsor - Windsor Walker Road HLE,18/11/24,4,9.1 l/100km,https://www.hertz.com/rentacar
+ Dodge Ram 1500 ,5,Standard Pick up,A,30.62 CAD,Windsor - Windsor Walker Road HLE,18/11/24,9,11.1 l/100km,https://www.hertz.com/rentacar
+ Chevrolet Spark ,4,Economy,A,33.90 CAD,Windsor - Windsor Walker Road HLE,18/11/24,2,6.7 l/100km,https://www.hertz.com/rentacar
+ Kia Rio ,5,Compact,A,33.90 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Volkswagen Jetta ,5,Standard,A,43.00 CAD,Windsor - Windsor Walker Road HLE,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,4,576 km range,https://www.hertz.com/rentacar
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,4,488 km range,https://www.hertz.com/rentacar
+ Nissan Kicks ,5,Compact SUV,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,3,7.7 l/100km,https://www.hertz.com/rentacar
+ Ford Transit 250 ,2,Commercial Van/Truck Medium Roof,A,Call to Book,Windsor - Windsor Walker Road HLE,18/11/24,11,14.3 l/100km,https://www.hertz.com/rentacar
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,73.45 CAD,Calgary International Airport,18/11/24,4,576 km range,https://www.hertz.com/rentacar
+ Toyota RAV4 ,5,Midsize SUV,A,50.23 CAD,Calgary International Airport,18/11/24,4,8.3 l/100km,https://www.hertz.com/rentacar
+ Ford Edge ,5,5 Passengers Standard SUV,A,51.48 CAD,Calgary International Airport,18/11/24,4,9.1 l/100km,https://www.hertz.com/rentacar
+ Dodge Grand Caravan ,7,Minivan,A,66.77 CAD,Calgary International Airport,18/11/24,5,9.1 l/100km,https://www.hertz.com/rentacar
+ Hyundai Sonata ,5,Fullsize,A,44.52 CAD,Calgary International Airport,18/11/24,4,6.2 l/100km,https://www.hertz.com/rentacar
+ Toyota Corolla ,5,Midsize,A,41.35 CAD,Calgary International Airport,18/11/24,3,6.7 l/100km,https://www.hertz.com/rentacar
+ Kia Rio ,5,Compact,A,38.99 CAD,Calgary International Airport,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Volkswagen Jetta ,5,Standard,A,42.73 CAD,Calgary International Airport,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Dodge Charger ,5,Premium,A,48.13 CAD,Calgary International Airport,18/11/24,4,10.0 l/100km,https://www.hertz.com/rentacar
+ Compact or Larger ,5,Economy,A,40.90 CAD,Calgary International Airport,18/11/24,3,NA,https://www.hertz.com/rentacar
+ Dodge Ram 1500 ,5,Standard Pick up,A,50.23 CAD,Calgary International Airport,18/11/24,9,11.1 l/100km,https://www.hertz.com/rentacar
+ Chevrolet Spark ,4,Economy,A,38.99 CAD,Calgary International Airport,18/11/24,2,6.7 l/100km,https://www.hertz.com/rentacar
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,69.21 CAD,Calgary International Airport,18/11/24,4,488 km range,https://www.hertz.com/rentacar
+ Chrysler 300 ,5,Luxury,A,49.93 CAD,Calgary International Airport,18/11/24,4,10.0 l/100km,https://www.hertz.com/rentacar
+ Tesla Model Y ,5,Tesla Model Y,A,91.05 CAD,Calgary International Airport,18/11/24,5,488 km range,https://www.hertz.com/rentacar
+ Nissan Murano ,5,Standard,A,74.32 CAD,Calgary International Airport,18/11/24,4,NA,https://www.hertz.com/rentacar
+ Dodge Durango ,7,Large SUV,A,91.12 CAD,Calgary International Airport,18/11/24,5,10.0 l/100km,https://www.hertz.com/rentacar
+ GMC Yukon XL 4WD ,7,Premium SUV,A,117.25 CAD,Calgary International Airport,18/11/24,5,11.1 l/100km,https://www.hertz.com/rentacar
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,73.45 CAD,Calgary International Airport,18/11/24,4,576 km range,https://www.hertz.com/rentacar
+ Toyota RAV4 ,5,Midsize SUV,A,50.23 CAD,Calgary International Airport,18/11/24,4,8.3 l/100km,https://www.hertz.com/rentacar
+ Ford Edge ,5,5 Passengers Standard SUV,A,51.48 CAD,Calgary International Airport,18/11/24,4,9.1 l/100km,https://www.hertz.com/rentacar
+ Dodge Grand Caravan ,7,Minivan,A,66.77 CAD,Calgary International Airport,18/11/24,5,9.1 l/100km,https://www.hertz.com/rentacar
+ Hyundai Sonata ,5,Fullsize,A,44.52 CAD,Calgary International Airport,18/11/24,4,6.2 l/100km,https://www.hertz.com/rentacar
+ Toyota Corolla ,5,Midsize,A,41.35 CAD,Calgary International Airport,18/11/24,3,6.7 l/100km,https://www.hertz.com/rentacar
+ Kia Rio ,5,Compact,A,38.99 CAD,Calgary International Airport,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Volkswagen Jetta ,5,Standard,A,42.73 CAD,Calgary International Airport,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Dodge Charger ,5,Premium,A,48.13 CAD,Calgary International Airport,18/11/24,4,10.0 l/100km,https://www.hertz.com/rentacar
+ Compact or Larger ,5,Economy,A,40.90 CAD,Calgary International Airport,18/11/24,3,NA,https://www.hertz.com/rentacar
+ Dodge Ram 1500 ,5,Standard Pick up,A,50.23 CAD,Calgary International Airport,18/11/24,9,11.1 l/100km,https://www.hertz.com/rentacar
+ Chevrolet Spark ,4,Economy,A,38.99 CAD,Calgary International Airport,18/11/24,2,6.7 l/100km,https://www.hertz.com/rentacar
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,69.21 CAD,Calgary International Airport,18/11/24,4,488 km range,https://www.hertz.com/rentacar
+ Chrysler 300 ,5,Luxury,A,49.93 CAD,Calgary International Airport,18/11/24,4,10.0 l/100km,https://www.hertz.com/rentacar
+ Tesla Model Y ,5,Tesla Model Y,A,91.05 CAD,Calgary International Airport,18/11/24,5,488 km range,https://www.hertz.com/rentacar
+ Nissan Murano ,5,Standard,A,74.32 CAD,Calgary International Airport,18/11/24,4,NA,https://www.hertz.com/rentacar
+ Dodge Durango ,7,Large SUV,A,91.12 CAD,Calgary International Airport,18/11/24,5,10.0 l/100km,https://www.hertz.com/rentacar
+ GMC Yukon XL 4WD ,7,Premium SUV,A,117.25 CAD,Calgary International Airport,18/11/24,5,11.1 l/100km,https://www.hertz.com/rentacar
+ Compact or Larger ,5,Economy,A,63.79 CAD,Edmonton - Comfort Inn,18/11/24,3,NA,https://www.hertz.com/rentacar
+ Toyota Corolla ,5,Midsize,A,68.22 CAD,Edmonton - Comfort Inn,18/11/24,3,6.7 l/100km,https://www.hertz.com/rentacar
+ Hyundai Sonata ,5,Fullsize,A,73.04 CAD,Edmonton - Comfort Inn,18/11/24,4,6.2 l/100km,https://www.hertz.com/rentacar
+ Toyota RAV4 ,5,Midsize SUV,A,75.90 CAD,Edmonton - Comfort Inn,18/11/24,4,8.3 l/100km,https://www.hertz.com/rentacar
+ Ford Edge ,5,5 Passengers Standard SUV,A,78.48 CAD,Edmonton - Comfort Inn,18/11/24,4,9.1 l/100km,https://www.hertz.com/rentacar
+ Dodge Ram 1500 ,5,Standard Pick up,A,78.48 CAD,Edmonton - Comfort Inn,18/11/24,9,11.1 l/100km,https://www.hertz.com/rentacar
+ Chevrolet Spark ,4,Economy,A,67.39 CAD,Edmonton - Comfort Inn,18/11/24,2,6.7 l/100km,https://www.hertz.com/rentacar
+ Kia Rio ,5,Compact,A,67.39 CAD,Edmonton - Comfort Inn,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Volkswagen Jetta ,5,Standard,A,69.45 CAD,Edmonton - Comfort Inn,18/11/24,3,6.2 l/100km,https://www.hertz.com/rentacar
+ Nissan Kicks ,5,Compact SUV,A,Call to Book,Edmonton - Comfort Inn,18/11/24,3,7.7 l/100km,https://www.hertz.com/rentacar
+ Tesla Model Y ,5,Tesla Model Y,A,92.32 CAD,Windsor - Windsor Walker Road HLE,18/11/24,5,488 km range,https://www.hertz.com/rentacar
+ Tesla Model Y ,5,Tesla Model Y,A,92.32 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,5,488 km range,https://www.hertz.com/rentacar,
+ Compact or Larger ,5,Economy,A,35.74 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,3,NA,https://www.hertz.com/rentacar,
+ Toyota Corolla ,5,Midsize,A,37.29 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,3,6.7 l/100km,https://www.hertz.com/rentacar,
+ Hyundai Sonata ,5,Fullsize,A,45.20 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,4,6.2 l/100km,https://www.hertz.com/rentacar,
+ Toyota RAV4 ,5,Midsize SUV,A,54.24 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,4,8.3 l/100km,https://www.hertz.com/rentacar,
+ Dodge Grand Caravan ,7,Minivan,A,55.37 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,5,9.1 l/100km,https://www.hertz.com/rentacar,
+ Ford Edge ,5,5 Passengers Standard SUV,A,55.37 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,4,9.1 l/100km,https://www.hertz.com/rentacar,
+ Dodge Ram 1500 ,5,Standard Pick up,A,32.28 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,9,11.1 l/100km,https://www.hertz.com/rentacar,
+ Chevrolet Spark ,4,Economy,A,35.74 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,2,6.7 l/100km,https://www.hertz.com/rentacar,
+ Kia Rio ,5,Compact,A,35.74 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,3,6.2 l/100km,https://www.hertz.com/rentacar,
+ Volkswagen Jetta ,5,Standard,A,43.00 CAD,Windsor - Windsor Walker Road HLE,2024-11-21,3,6.2 l/100km,https://www.hertz.com/rentacar,
+ Tesla Model 3 LR ,5,Tesla Model 3 LR,A,Call to Book,Windsor - Windsor Walker Road HLE,2024-11-21,4,576 km range,https://www.hertz.com/rentacar,
+ Tesla Model 3 SR ,5,Tesla Model 3 SR,A,Call to Book,Windsor - Windsor Walker Road HLE,2024-11-21,4,488 km range,https://www.hertz.com/rentacar,
+ Nissan Kicks ,5,Compact SUV,A,Call to Book,Windsor - Windsor Walker Road HLE,2024-11-21,3,7.7 l/100km,https://www.hertz.com/rentacar,
+ Ford Transit 250 ,2,Commercial Van/Truck Medium Roof,A,Call to Book,Windsor - Windsor Walker Road HLE,2024-11-21,11,14.3 l/100km,https://www.hertz.com/rentacar,

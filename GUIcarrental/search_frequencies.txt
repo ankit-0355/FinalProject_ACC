@@ -1,0 +1,7 @@
+brampton:1
+calgary:8
+edmonton:6
+london:2
+toronto:16
+vancouver:1
+windsor:26
